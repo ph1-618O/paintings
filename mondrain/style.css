@@ -1,0 +1,76 @@
+.full-width-div {
+    position: relative;
+    width: 100%;
+    left: 0;
+}
+
+.container{
+    width:500px;
+    height:505px;
+}
+
+
+/* .square:before{
+    content: "";
+    display: block;
+    padding-top: 100%;  /* initial ratio of 1:1
+} */
+
+/* .square {
+    height: 1000px;
+    width:  1000px;
+  } */
+
+#a {
+    min-height: 165px;
+    background-color: white;
+    border: black;
+    border-style: solid;
+    border-width:0 7.5px 15px 0px;
+}
+#b {
+    min-height: 190px;
+    background-color: white;
+    border: black;
+    border-style: solid;
+    border-width:15px 7.5px 7.5px 0;;
+}
+#c {
+    min-height: 355px;
+    background-color: #ed0000;
+    border: black;
+    border-style: solid;
+    border-width:0 0 7.5px 7.5px;
+}
+#d {
+    min-height: 150px;
+    background-color:#0058a4;
+    border: black;
+    border-style: solid;
+    border-width:7.5px 7.5px 0 0;
+}
+#e {
+    min-height: 150px;
+    background-color: white;
+    border: black;
+    border-style: solid;
+    border-width:7.5px 7.5px 0 7.5px;
+}
+
+#f {
+    min-height: 75px;
+    background-color: white;
+    border: black;
+    border-style: solid;
+    border-width:7.5px 0 12.5px 7.5px;
+}
+
+#g {
+    min-height: 75px;
+    background-color:#f3e468;
+    border: black;
+    border-style: solid;
+    border-width:12.5px 0 0 7.5px;
+}
+
+
